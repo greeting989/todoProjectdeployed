@@ -1,0 +1,27 @@
+.displayItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+    font-size: 1rem;
+}
+.displayIcons{
+   margin-left: 0.5rem;
+   margin-right: 0.5rem;
+   display: flex;
+   align-items: space-around;
+}
+
+.container_form{
+    margin: auto;
+    width: 88%;
+    height: 20%;
+    padding: 10px;
+    margin-top: 4rem;
+    box-shadow: 10px 10px 16px 0px rgb(21, 22, 22);
+    border-radius: 25px;
+    position: static;
+
+    
+}
+
